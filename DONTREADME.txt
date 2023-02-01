@@ -9,6 +9,8 @@
 
 8. dontreadme
 
+9. git clone (or git pull/fetch)
+
 
 É 1945, estamos no casamento da filha de Don Vito Corleone. As cores vibrantes do amarelo pintam o ambiente aquecendo a festa desde as 
 lampadas enfeitando os portais no gramado, até os detalhes nas roupas das moças. 
