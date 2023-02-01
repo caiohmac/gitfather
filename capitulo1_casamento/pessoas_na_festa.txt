@@ -75,7 +75,7 @@ Astore
 Baldassare
 Beppe
 Carmine
-Fotógrafo
+Fotografo
 Cesare
 Clemente
 Daniele
@@ -101,7 +101,7 @@ Oddone
 Ottone
 Pasquale
 Raffaele
-Salomone, 
+Salomone 
 alvatore
 Samuele
 Sante
