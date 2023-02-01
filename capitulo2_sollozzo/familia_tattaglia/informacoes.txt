@@ -1,5 +1,5 @@
 "piano per distruggere Corleone:
 "Vito compra la frutta tutte le mattine al mercato. Questo è quando attacchiamo."
 
-Traduza o texto acima na linha abaixo:
+Traduza o texto acima na linha abaixo e salve o arquivo:
 .

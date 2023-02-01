@@ -1,4 +1,4 @@
-Um saco com uma boa quantia em dinheiro.
+Uma sacola com uma boa quantia em dinheiro.
 As vezes é tudo uma questão de negociar bem.
 
 : dinheiro .
