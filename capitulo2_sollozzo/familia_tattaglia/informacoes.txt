@@ -2,4 +2,4 @@
 "Vito compra la frutta tutte le mattine al mercato. Questo è quando attacchiamo."
 
 Traduza o texto acima na linha abaixo e salve o arquivo:
-.
+"Plano para destruir Corleone: Vito compra frutas todas as manhãs no mercado. É quando atacamos."
