@@ -2,4 +2,5 @@
 "Vito compra la frutta tutte le mattine al mercato. Questo è quando attacchiamo."
 
 Traduza o texto acima na linha abaixo e salve o arquivo:
-.
+
+"A Vito compra frutas todas as manhãs no mercado. É aí que atacamos."
