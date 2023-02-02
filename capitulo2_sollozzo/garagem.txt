@@ -1,4 +1,4 @@
 Paulie, guarda-costas de Corleone, não está em lugar algum. Ligou mais cedo avisando que esta doente, está faltando o trabalho.
 (com o carro, Corleone quer ir ao mercado, copie o nome de corleone para o carro, e o carro para o mercado).
 
-: carro (vazio)
+: carro (Don Vito Corleone)
