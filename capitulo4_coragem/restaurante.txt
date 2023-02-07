@@ -1,5 +1,5 @@
 O restaurante tem uma frente bem iluminada, mas um beco ao lado parece perfeito para esconder o carro e aguardar a saída de Michael.
-beco : ________ .
+beco : carro .
 
 Um delicioso cheiro de massas, carnes queijos e molho de tomate enche o salão vindo da cozinha.
 
